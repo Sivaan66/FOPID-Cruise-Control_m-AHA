@@ -73,11 +73,10 @@ The system aims to maintain a desired vehicle speed while improving the **ride c
 
 Below is the system-level block diagram of the cruise control model controlled by a FOPID controller optimized using m-AHA:
 
-<p align="center">
-  <img src="Images/fopid_diagram.png" width="600"/>
-</p>
+- 🔗 [Check the results](./Model(Simulink)CruiseControlSystem.pdf)
 
 ## 📊 Simulation Result
+The output, error of the system, overshoot, settling time, rise time can be verified from this diagram.
 
 - 🔗 [Check the results](./step_response.png)
 
