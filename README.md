@@ -82,7 +82,7 @@ The output, error of the system, overshoot, settling time, rise time can be veri
 ## 📥 Download the full report
 Th1e report was made using **Latex** with **Overleaf** software.
 
-- - 🔗 [Check the results](./Report-Cruise_control_system.pdf) 
+- 🔗 [Check the results](./Report-Cruise_control_system.pdf) 
 ---
 
 ## 📌 Future Scope
