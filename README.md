@@ -61,6 +61,14 @@ The system aims to maintain a desired vehicle speed while improving the **ride c
 
 ## 📈 Results (Sample)
 **Step response**:
+The diagram below shows the step response of cruise control system.
+
+<p align="center">
+  <img src="Images/step response.png" width="500"/>
+</p>
+
+> Optimized using the Modified Artificial Hummingbird Algorithm (m-AHA).
+
 - **Rise Time**: ~0.66 seconds  
 - **Settling Time**: ~1.04 seconds  
 - **Overshoot**: Minimal  
