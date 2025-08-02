@@ -37,7 +37,7 @@ The system aims to maintain a desired vehicle speed while improving the **ride c
 
 - MATLAB / Simulink
 - Control System Toolbox
-- Optimization algorithms (custom-coded m-AHA)
+- Optimization algorithms (custom-coded m-AHA) 
 - LaTeX (for report documentation)
 
 ---
@@ -60,7 +60,7 @@ The system aims to maintain a desired vehicle speed while improving the **ride c
 ---
 
 ## 📈 Results (Sample)
-
+**Step response**:
 - **Rise Time**: ~0.66 seconds  
 - **Settling Time**: ~1.04 seconds  
 - **Overshoot**: Minimal  
