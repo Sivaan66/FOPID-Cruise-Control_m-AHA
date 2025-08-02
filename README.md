@@ -79,7 +79,7 @@ Below is the system-level block diagram of the cruise control model controlled b
 
 ## 📊 Simulation Result
 
-![Step Response](Results/step_response.png)
+- 🔗 [Check the results](./step_response.png)
 
 ---
 
