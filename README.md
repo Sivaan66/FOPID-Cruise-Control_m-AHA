@@ -1,7 +1,7 @@
 
 # Cruise Control System using FOPID with m-AHA Optimization
 
-## 🚗 Project Title
+## Project Title
 **Designing FOPID Controlled Cruise Control System Using Modified Artificial Hummingbird Algorithm (m-AHA)**
 
 ---
