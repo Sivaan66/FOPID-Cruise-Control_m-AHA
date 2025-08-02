@@ -66,22 +66,7 @@ The system aims to maintain a desired vehicle speed while improving the **ride c
 - **Overshoot**: Minimal  
 - **Performance**: Superior to traditional PID and other metaheuristics on benchmark tests.
 
----
-
-## 📁 Repository Structure (Optional)
-
 ```
-├── MATLAB/
-│   ├── cruise_model.slx
-│   ├── fopid_mAHA.m
-├── Docs/
-│   └── MajorProject_Report.pdf
-├── README.md
-└── Results/
-    └── step_response.png
-```
-
----
 
 ## 📌 Future Scope
 
