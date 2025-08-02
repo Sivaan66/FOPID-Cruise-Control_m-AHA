@@ -79,8 +79,6 @@ The output, error of the system, overshoot, settling time, rise time can be veri
 
 - 🔗 [Check the results](./step_response.png)
 
----
-
 ## 📥 Download the full report
 Th1e report was made using **Latex** with **Overleaf** software.
 
