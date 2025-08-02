@@ -72,17 +72,26 @@ The system aims to maintain a desired vehicle speed while improving the **ride c
 
 Below is the system-level block diagram of the cruise control model controlled by a FOPID controller optimized using m-AHA:
 
-- 🔗 [Check the results](./Model(Simulink)CruiseControlSystem.pdf)
+- 🔗 [**Check the results**](./Model(Simulink)CruiseControlSystem.pdf)
 
 ## 📊 Simulation Result
+### step response :
 The output, error of the system, overshoot, settling time, rise time can be verified from this diagram.
 
-- 🔗 [Check the results](./step_response.png)
+- 🔗 [**Check the results**](./step_response.png)
+
+### Bode plot :
+System stability and robustness can be decribed by bode plot.  
+
+- **Phase Margin : 72 degree** - Means stable
+- **Gain Margin : Infinity** - Means robust to sudden changes
+-  🔗 [**Check the results**](./boe_plot.png)
 
 ## 📥 Download the full report
 Th1e report was made using **Latex** with **Overleaf** software.
 
-- 🔗 [Check the results](./Report-Cruise_control_system.pdf) 
+- 🔗 [**Check the results**](./Report-Cruise_control_system.pdf)
+
 ---
 
 ## 📌 Future Scope
