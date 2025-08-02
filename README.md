@@ -60,20 +60,28 @@ The system aims to maintain a desired vehicle speed while improving the **ride c
 ---
 
 ## 📈 Results (Sample)
-**Step response**:
-The diagram below shows the step response of cruise control system.
-
-<p align="center">
-  <img src="Images/step response.png" width="500"/>
-</p>
-
-> Optimized using the Modified Artificial Hummingbird Algorithm (m-AHA).
 
 - **Rise Time**: ~0.66 seconds  
 - **Settling Time**: ~1.04 seconds  
 - **Overshoot**: Minimal  
 - **Performance**: Superior to traditional PID and other metaheuristics on benchmark tests.
 
+---
+# Cruise Control System using FOPID and m-AHA
+
+## 🧠 System Architecture
+
+Below is the system-level block diagram of the cruise control model controlled by a FOPID controller optimized using m-AHA:
+
+<p align="center">
+  <img src="Images/fopid_diagram.png" width="600"/>
+</p>
+
+## 📊 Simulation Result
+
+![Step Response](Results/step_response.png)
+
+---
 
 ## 📌 Future Scope
 
