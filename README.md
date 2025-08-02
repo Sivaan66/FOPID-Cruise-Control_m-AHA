@@ -66,7 +66,6 @@ The system aims to maintain a desired vehicle speed while improving the **ride c
 - **Overshoot**: Minimal  
 - **Performance**: Superior to traditional PID and other metaheuristics on benchmark tests.
 
-```
 
 ## 📌 Future Scope
 
