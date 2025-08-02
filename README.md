@@ -85,7 +85,7 @@ System stability and robustness can be decribed by bode plot.
 
 - **Phase Margin : 72 degree** - Means stable
 - **Gain Margin : Infinity** - Means robust to sudden changes
--  🔗 [**Check the results**](./boe_plot.png)
+-  🔗 [**Check the results**](./bode_plot.png)
 
 ## 📥 Download the full report
 Th1e report was made using **Latex** with **Overleaf** software.
