@@ -67,7 +67,6 @@ The system aims to maintain a desired vehicle speed while improving the **ride c
 - **Performance**: Superior to traditional PID and other metaheuristics on benchmark tests.
 
 ---
-# Cruise Control System using FOPID and m-AHA
 
 ## 🧠 System Architecture
 
@@ -80,6 +79,12 @@ The output, error of the system, overshoot, settling time, rise time can be veri
 
 - 🔗 [Check the results](./step_response.png)
 
+---
+
+## 📥 Download the full report
+Th1e report was made using **Latex** with **Overleaf** software.
+
+- - 🔗 [Check the results](./Report-Cruise_control_system.pdf) 
 ---
 
 ## 📌 Future Scope
