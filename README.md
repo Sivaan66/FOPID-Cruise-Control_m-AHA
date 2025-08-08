@@ -81,14 +81,14 @@ The output, error of the system, overshoot, settling time, rise time can be veri
 - 🔗 [**Check the results**](./step_response.png)
 
 ### Bode plot :
-System stability and robustness can be decribed by bode plot.  
+System stability and robustness can be described by bode plot.  
 
 - **Phase Margin : 72 degree** - Means stable
 - **Gain Margin : Infinity** - Means robust to sudden changes
 -  🔗 [**Check the results**](./bode_plot.png)
 
 ## 📥 Download the full report
-Th1e report was made using **Latex** with **Overleaf** software.
+The report was made using **Latex** with **Overleaf** software.
 
 - 🔗 [**Check the results**](./Report-Cruise_control_system.pdf)
 
@@ -98,4 +98,4 @@ Th1e report was made using **Latex** with **Overleaf** software.
 
 - Real-time implementation with hardware-in-the-loop (HIL) simulation.
 - Extension to **adaptive or nonlinear control** frameworks.
-- Integration with full autonomous driving systems.
+- Integration with autonomous driving systems.
